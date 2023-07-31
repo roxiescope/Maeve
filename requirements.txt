@@ -1,0 +1,7 @@
+# Manage all the libraries used in the project
+# Can be installed all at once with: pip install -r requirements.txt
+meteostat
+PyQt5
+plyer
+schedule
+winotify
